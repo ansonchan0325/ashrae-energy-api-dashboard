@@ -1,0 +1,7 @@
+notebooks/
+models/
+__pycache__/
+*.pyc
+.venv/
+.dockerignore
+.gcloudignore
