@@ -71,6 +71,7 @@ Final prediction = _w₁·XGB2 + w₂·XGB5 + w₃·LGBM3_
   ]
 }
 
+![API Response](docs/API_demo.png)
 ---
 
 ## 📈 Dashboards
@@ -82,7 +83,10 @@ Final prediction = _w₁·XGB2 + w₂·XGB5 + w₃·LGBM3_
   - **KPI Cards** annualized EUI, GHG emissions
   - **trends**
   - etc.
- 
+
+![Power BI Preview](docs/Power_BI_Report.png)
+
+![Dashboard Preview](docs/Dashboard2.png)
 ---
 
 ## ⚠️ Obstruction
