@@ -3,6 +3,12 @@ _Enabling pay-for-performance energy financing, portfolio decarbonization, and d
 
 ---
 
+## 🎬 Watch the Demo  
+See the system in action in this 2-minute demo on YouTube:  
+https://youtu.be/TDP8FHHZ2ak
+
+---
+
 ## 🔍 Overview & Purpose  
 Buildings account for a large share of global energy use and carbon emissions. Under **pay-for-performance (P4P) energy financing**, owners pay based on the **difference** between actual energy consumption and a modeled “business-as-usual” baseline—true “counterfactual” usage without retrofits. Accurate, scalable baseline models are essential:
 
